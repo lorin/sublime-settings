@@ -1,5 +1,16 @@
-// Settings in here override those in "Default/Preferences.sublime-settings",
-// and are overridden in turn by file type specific settings.
 {
-	
+
+	// Don't retain state between saves
+	"remember_open_files": false,
+	"hot_exit": false,
+
+	// Only auto-complete in source mode
+	"auto_complete_selector": "source - (comment, string.quoted)",
+
+	// Whitespace handling
+	"draw_white_space": "all",
+	"trim_trailing_white_space_on_save": true,
+
+	// Ruler at 78 columns
+	"rulers": [78]
 }
