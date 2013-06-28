@@ -12,5 +12,10 @@
 	"trim_trailing_white_space_on_save": true,
 
 	// Ruler at 78 columns
-	"rulers": [78]
+	"rulers": [78],
+
+	"theme": "Flatland Dark.sublime-theme",
+	"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme"
+
+
 }
