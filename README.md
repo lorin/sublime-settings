@@ -7,3 +7,4 @@ My personal sublime text settings
  * Theme - Flatland
  * Origami
  * SublimeLinter
+ * ApplySyntax
