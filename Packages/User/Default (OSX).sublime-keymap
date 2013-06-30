@@ -3,8 +3,10 @@
 	{ "keys": ["super+alt+up"], "command": "select_lines", "args": {"forward": false} },
 	{ "keys": ["super+alt+down"], "command": "select_lines", "args": {"forward": true} },
 
-		// Find in project
-	{ "keys": ["ctrl+alt+super+f"],  "command": "show_panel", "args": {"panel": "find_in_files", "location": "<open folders>" } }
+	// Override ctrl-e because emmet redefines this
+	{ "keys": ["ctrl+e"], "command": "move_to", "args": {"to": "eol", "extend": false} },
 
+	// Find in project
+	{ "keys": ["ctrl+alt+super+f"],  "command": "show_panel", "args": {"panel": "find_in_files", "location": "<open folders>" } }
 
 ]
