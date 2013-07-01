@@ -3,6 +3,9 @@
 	{ "keys": ["super+alt+up"], "command": "select_lines", "args": {"forward": false} },
 	{ "keys": ["super+alt+down"], "command": "select_lines", "args": {"forward": true} },
 
+	// Override ctrl-d because emmet redefines this
+	{ "keys": ["ctrl+d"], "command": "right_delete" },
+
 	// Override ctrl-e because emmet redefines this
 	{ "keys": ["ctrl+e"], "command": "move_to", "args": {"to": "eol", "extend": false} },
 
