@@ -8,3 +8,4 @@ My personal sublime text settings
  * Origami
  * SublimeLinter
  * ApplySyntax
+ * DashDoc
