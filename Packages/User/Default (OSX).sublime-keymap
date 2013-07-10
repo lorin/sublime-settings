@@ -13,7 +13,9 @@
 	// Override ctrl-e because emmet redefines this
 	{ "keys": ["ctrl+e"], "command": "move_to", "args": {"to": "eol", "extend": false} },
 
+	{ "keys": ["super+."], "command": "goto_definition" },
+
 	// Find in project
 	{ "keys": ["ctrl+alt+super+f"],  "command": "show_panel", "args": {"panel": "find_in_files", "location": "<open folders>" } }
 
-]
+	]
