@@ -1,5 +1,5 @@
 {
 	"sublimelinter_mark_style": "none",
 	"sublimelinter_gutter_marks": true,
-	"pep8_ignore": ["E126", "E127"]
+	"pep8_ignore": ["E126", "E127", "E128"]
 }
