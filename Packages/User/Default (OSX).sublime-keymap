@@ -1,5 +1,12 @@
 [
 
+	// Always paste and indent
+	//{ "keys": ["super+v"], "command": "paste_and_indent" },
+
+	// Always use incremental search
+	//{ "keys": ["super+f"], "command": "show_panel", "args": {"panel": "incremental_find", "reverse": false} },
+
+
 	// This is the default setting but isn't working when default
 	{ "keys": ["super+shift+r"], "command": "goto_symbol_in_project" },
 
