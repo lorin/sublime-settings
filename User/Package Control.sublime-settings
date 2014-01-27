@@ -8,6 +8,10 @@
 		"GitGutter",
 		"Origami",
 		"SideBarEnhancements",
-		"Theme - Flatland"
+		"SublimeLinter",
+		"SublimeLinter-cppcheck",
+		"SublimeLinter-flake8",
+		"Theme - Flatland",
+		"Theme - Spacegray"
 	]
 }
