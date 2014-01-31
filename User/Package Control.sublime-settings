@@ -2,11 +2,14 @@
 	"installed_packages":
 	[
 		"Better CoffeeScript",
+		"CMake",
 		"Cucumber",
+		"Emmet",
 		"Gherkin (Cucumber) Formatter",
 		"Git",
 		"GitGutter",
 		"Origami",
+		"Pretty JSON",
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-cppcheck",
